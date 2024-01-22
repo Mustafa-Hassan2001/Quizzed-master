@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1094127200925",
+    "firebase_url": "https://quizzed-7ef7e.firebaseio.com",
+    "project_id": "quizzed-7ef7e",
+    "storage_bucket": "quizzed-7ef7e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1094127200925:android:0b60d33b1955db55904274",
+        "android_client_info": {
+          "package_name": "com.cheezycode.quizzed"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1094127200925-6qaal2hf85mk1a3jbaf5v6geb1feept3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDECeQy5p3BX8WiQVBVWgyPzHVynIwiWWM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1094127200925-6qaal2hf85mk1a3jbaf5v6geb1feept3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
